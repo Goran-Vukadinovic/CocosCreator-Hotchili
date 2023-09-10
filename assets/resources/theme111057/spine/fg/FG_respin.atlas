@@ -1,0 +1,223 @@
+
+FG_respin.png
+size: 1949,651
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/3XX
+  rotate: true
+  xy: 741, 155
+  size: 55, 291
+  orig: 55, 291
+  offset: 0, 0
+  index: -1
+images/4X
+  rotate: true
+  xy: 197, 130
+  size: 64, 340
+  orig: 64, 340
+  offset: 0, 0
+  index: -1
+images/5X
+  rotate: false
+  xy: 197, 196
+  size: 85, 453
+  orig: 85, 453
+  offset: 0, 0
+  index: -1
+images/6X
+  rotate: false
+  xy: 96, 120
+  size: 99, 529
+  orig: 99, 529
+  offset: 0, 0
+  index: -1
+images/6Xglow_00
+  rotate: true
+  xy: 1138, 399
+  size: 250, 809
+  orig: 250, 1084
+  offset: 0, 142
+  index: -1
+images/ReelBackground4_zhezhao
+  rotate: true
+  xy: 539, 134
+  size: 60, 200
+  orig: 60, 200
+  offset: 0, 0
+  index: -1
+images/blizi/1_00
+  rotate: true
+  xy: 601, 212
+  size: 115, 296
+  orig: 300, 500
+  offset: 79, 69
+  index: -1
+images/blizi/1_01
+  rotate: false
+  xy: 1792, 98
+  size: 114, 299
+  orig: 300, 500
+  offset: 83, 69
+  index: -1
+images/blizi/1_02
+  rotate: false
+  xy: 1518, 95
+  size: 114, 302
+  orig: 300, 500
+  offset: 86, 69
+  index: -1
+images/blizi/1_03
+  rotate: true
+  xy: 899, 216
+  size: 114, 305
+  orig: 300, 500
+  offset: 88, 69
+  index: -1
+images/blizi/1_04
+  rotate: true
+  xy: 96, 2
+  size: 116, 308
+  orig: 300, 500
+  offset: 88, 69
+  index: -1
+images/blizi/1_05
+  rotate: true
+  xy: 721, 14
+  size: 118, 310
+  orig: 300, 500
+  offset: 89, 69
+  index: -1
+images/blizi/1_06
+  rotate: true
+  xy: 406, 7
+  size: 121, 313
+  orig: 300, 500
+  offset: 89, 69
+  index: -1
+images/blizi/1_07
+  rotate: true
+  xy: 284, 196
+  size: 129, 315
+  orig: 300, 500
+  offset: 85, 69
+  index: -1
+images/blizi/1_08
+  rotate: false
+  xy: 1004, 332
+  size: 132, 317
+  orig: 300, 500
+  offset: 84, 69
+  index: -1
+images/blizi/1_09
+  rotate: false
+  xy: 864, 332
+  size: 138, 317
+  orig: 300, 500
+  offset: 81, 69
+  index: -1
+images/blizi/1_10
+  rotate: false
+  xy: 726, 329
+  size: 136, 320
+  orig: 300, 500
+  offset: 86, 69
+  index: -1
+images/blizi/1_11
+  rotate: false
+  xy: 435, 328
+  size: 141, 321
+  orig: 300, 500
+  offset: 83, 70
+  index: -1
+images/blizi/1_12
+  rotate: false
+  xy: 578, 329
+  size: 146, 320
+  orig: 300, 500
+  offset: 81, 70
+  index: -1
+images/blizi/1_13
+  rotate: false
+  xy: 284, 327
+  size: 149, 322
+  orig: 300, 500
+  offset: 79, 70
+  index: -1
+images/blizi/1_14
+  rotate: false
+  xy: 1363, 34
+  size: 153, 306
+  orig: 300, 500
+  offset: 77, 70
+  index: -1
+images/blizi/1_15
+  rotate: false
+  xy: 1206, 32
+  size: 155, 308
+  orig: 300, 500
+  offset: 76, 70
+  index: -1
+images/blizi/1_16
+  rotate: false
+  xy: 1634, 98
+  size: 156, 299
+  orig: 300, 500
+  offset: 75, 80
+  index: -1
+images/e
+  rotate: false
+  xy: 1122, 128
+  size: 78, 86
+  orig: 78, 86
+  offset: 0, 0
+  index: -1
+images/i
+  rotate: true
+  xy: 1399, 345
+  size: 52, 87
+  orig: 52, 87
+  offset: 0, 0
+  index: -1
+images/mh_00
+  rotate: false
+  xy: 2, 8
+  size: 92, 641
+  orig: 150, 650
+  offset: 29, 6
+  index: -1
+images/n
+  rotate: true
+  xy: 1033, 60
+  size: 93, 87
+  orig: 93, 87
+  offset: 0, 0
+  index: -1
+images/p
+  rotate: false
+  xy: 1693, 7
+  size: 83, 89
+  orig: 83, 89
+  offset: 0, 0
+  index: -1
+images/r
+  rotate: true
+  xy: 1604, 3
+  size: 90, 87
+  orig: 90, 87
+  offset: 0, 0
+  index: -1
+images/s
+  rotate: false
+  xy: 1518, 2
+  size: 84, 91
+  orig: 84, 91
+  offset: 0, 0
+  index: -1
+images/shuxian_00
+  rotate: true
+  xy: 1138, 342
+  size: 55, 259
+  orig: 60, 300
+  offset: 5, 18
+  index: -1

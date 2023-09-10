@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "2510739b-5e89-4efc-a701-91c89467a657",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 562,
+  "height": 606,
+  "platformSettings": {},
+  "subMetas": {
+    "Info_game_fever_01_EN": {
+      "ver": "1.0.4",
+      "uuid": "9e0e48f3-44fe-4208-b6a7-8df9784095db",
+      "rawTextureUuid": "2510739b-5e89-4efc-a701-91c89467a657",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 562,
+      "height": 606,
+      "rawWidth": 562,
+      "rawHeight": 606,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,69 @@
+
+TC_FG_bg.png
+size: 772,770
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: false
+  xy: 2, 254
+  size: 685, 514
+  orig: 685, 515
+  offset: 0, 0
+  index: -1
+cao1
+  rotate: true
+  xy: 689, 635
+  size: 133, 81
+  orig: 134, 83
+  offset: 0, 1
+  index: -1
+cao2
+  rotate: true
+  xy: 689, 500
+  size: 133, 81
+  orig: 134, 83
+  offset: 0, 1
+  index: -1
+lajiao1
+  rotate: true
+  xy: 329, 163
+  size: 89, 276
+  orig: 89, 276
+  offset: 0, 0
+  index: -1
+lajiao2
+  rotate: true
+  xy: 329, 72
+  size: 89, 276
+  orig: 89, 276
+  offset: 0, 0
+  index: -1
+xian1
+  rotate: false
+  xy: 607, 80
+  size: 87, 172
+  orig: 90, 174
+  offset: 3, 1
+  index: -1
+xian2
+  rotate: false
+  xy: 689, 458
+  size: 31, 40
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+xian3
+  rotate: false
+  xy: 2, 7
+  size: 35, 60
+  orig: 35, 61
+  offset: 0, 1
+  index: -1
+xian4
+  rotate: true
+  xy: 2, 69
+  size: 183, 325
+  orig: 186, 328
+  offset: 1, 0
+  index: -1

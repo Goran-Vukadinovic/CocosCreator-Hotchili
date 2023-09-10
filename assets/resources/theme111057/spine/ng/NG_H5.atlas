@@ -1,0 +1,167 @@
+
+NG_H5.png
+size: 1338,540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bing
+  rotate: false
+  xy: 958, 85
+  size: 275, 182
+  orig: 275, 182
+  offset: 0, 0
+  index: -1
+di
+  rotate: true
+  xy: 2, 58
+  size: 480, 400
+  orig: 480, 400
+  offset: 0, 0
+  index: -1
+gj/1_00
+  rotate: false
+  xy: 958, 272
+  size: 77, 45
+  orig: 281, 189
+  offset: 33, 52
+  index: -1
+gj/1_01
+  rotate: false
+  xy: 958, 272
+  size: 77, 45
+  orig: 281, 189
+  offset: 33, 52
+  index: -1
+gj/1_02
+  rotate: false
+  xy: 958, 319
+  size: 133, 51
+  orig: 281, 189
+  offset: 38, 58
+  index: -1
+gj/1_03
+  rotate: false
+  xy: 188, 6
+  size: 177, 50
+  orig: 281, 189
+  offset: 40, 66
+  index: -1
+gj/1_04
+  rotate: false
+  xy: 2, 6
+  size: 184, 50
+  orig: 281, 189
+  offset: 45, 68
+  index: -1
+gj/1_05
+  rotate: false
+  xy: 367, 9
+  size: 187, 47
+  orig: 281, 189
+  offset: 50, 74
+  index: -1
+gj/1_06
+  rotate: false
+  xy: 556, 9
+  size: 183, 47
+  orig: 281, 189
+  offset: 54, 74
+  index: -1
+gj/1_07
+  rotate: false
+  xy: 930, 12
+  size: 186, 44
+  orig: 281, 189
+  offset: 57, 76
+  index: -1
+gj/1_08
+  rotate: false
+  xy: 741, 12
+  size: 187, 44
+  orig: 281, 189
+  offset: 57, 76
+  index: -1
+gj/1_09
+  rotate: true
+  xy: 404, 60
+  size: 184, 42
+  orig: 281, 189
+  offset: 62, 76
+  index: -1
+gj/1_10
+  rotate: false
+  xy: 1118, 44
+  size: 182, 39
+  orig: 281, 189
+  offset: 66, 77
+  index: -1
+gj/1_11
+  rotate: true
+  xy: 1280, 90
+  size: 177, 38
+  orig: 281, 189
+  offset: 71, 77
+  index: -1
+gj/1_12
+  rotate: false
+  xy: 1118, 2
+  size: 175, 40
+  orig: 281, 189
+  offset: 75, 75
+  index: -1
+gj/1_13
+  rotate: true
+  xy: 448, 73
+  size: 171, 43
+  orig: 281, 189
+  offset: 81, 72
+  index: -1
+gj/1_14
+  rotate: true
+  xy: 493, 74
+  size: 170, 43
+  orig: 281, 189
+  offset: 83, 72
+  index: -1
+gj/1_15
+  rotate: true
+  xy: 1235, 107
+  size: 160, 43
+  orig: 281, 189
+  offset: 93, 72
+  index: -1
+he
+  rotate: true
+  xy: 958, 372
+  size: 166, 151
+  orig: 166, 151
+  offset: 0, 0
+  index: -1
+houshengcai
+  rotate: false
+  xy: 404, 369
+  size: 133, 169
+  orig: 133, 169
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: true
+  xy: 556, 58
+  size: 480, 400
+  orig: 480, 400
+  offset: 0, 0
+  index: -1
+qianshengcai
+  rotate: true
+  xy: 1118, 269
+  size: 269, 218
+  orig: 269, 218
+  offset: 0, 0
+  index: -1
+shangfanqie
+  rotate: false
+  xy: 404, 246
+  size: 131, 121
+  orig: 131, 121
+  offset: 0, 0
+  index: -1

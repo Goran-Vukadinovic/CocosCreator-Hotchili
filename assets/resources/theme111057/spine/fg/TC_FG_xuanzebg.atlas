@@ -1,0 +1,76 @@
+
+TC_FG_xuanzebg.png
+size: 950,948
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cao1
+  rotate: false
+  xy: 765, 260
+  size: 133, 81
+  orig: 134, 83
+  offset: 0, 1
+  index: -1
+cao2
+  rotate: false
+  xy: 741, 177
+  size: 133, 81
+  orig: 134, 83
+  offset: 0, 1
+  index: -1
+henghong
+  rotate: true
+  xy: 652, 262
+  size: 684, 111
+  orig: 684, 111
+  offset: 0, 0
+  index: -1
+hongban
+  rotate: false
+  xy: 2, 17
+  size: 648, 929
+  orig: 648, 929
+  offset: 0, 0
+  index: -1
+lajiao1
+  rotate: false
+  xy: 765, 343
+  size: 89, 276
+  orig: 89, 276
+  offset: 0, 0
+  index: -1
+lajiao2
+  rotate: false
+  xy: 856, 343
+  size: 89, 276
+  orig: 89, 276
+  offset: 0, 0
+  index: -1
+xian1
+  rotate: false
+  xy: 652, 88
+  size: 87, 172
+  orig: 90, 174
+  offset: 3, 1
+  index: -1
+xian2
+  rotate: false
+  xy: 900, 301
+  size: 31, 40
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+xian3
+  rotate: false
+  xy: 652, 26
+  size: 35, 60
+  orig: 35, 61
+  offset: 0, 1
+  index: -1
+xian4
+  rotate: false
+  xy: 765, 621
+  size: 183, 325
+  orig: 186, 328
+  offset: 1, 0
+  index: -1

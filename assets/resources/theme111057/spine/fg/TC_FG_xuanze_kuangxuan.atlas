@@ -1,0 +1,13 @@
+
+TC_FG_xuanze_kuangxuan.png
+size: 296,119
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/xiang_00
+  rotate: false
+  xy: 2, 2
+  size: 292, 115
+  orig: 304, 131
+  offset: 6, 8
+  index: -1

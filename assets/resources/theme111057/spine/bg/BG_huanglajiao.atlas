@@ -1,0 +1,139 @@
+
+BG_huanglajiao.png
+size: 651,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_gebo
+  rotate: true
+  xy: 547, 279
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+L_shou
+  rotate: false
+  xy: 588, 166
+  size: 58, 42
+  orig: 58, 42
+  offset: 0, 0
+  index: -1
+L_yanbai
+  rotate: false
+  xy: 427, 5
+  size: 76, 102
+  orig: 76, 102
+  offset: 0, 0
+  index: -1
+L_yanqiu
+  rotate: false
+  xy: 616, 327
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+R_gebo
+  rotate: false
+  xy: 318, 109
+  size: 216, 123
+  orig: 216, 123
+  offset: 0, 0
+  index: -1
+R_yanbai
+  rotate: true
+  xy: 318, 2
+  size: 105, 107
+  orig: 105, 107
+  offset: 0, 0
+  index: -1
+R_yanqiu
+  rotate: false
+  xy: 616, 364
+  size: 33, 157
+  orig: 33, 157
+  offset: 0, 0
+  index: -1
+bizi
+  rotate: false
+  xy: 505, 10
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+huzi
+  rotate: true
+  xy: 2, 3
+  size: 218, 314
+  orig: 218, 314
+  offset: 0, 0
+  index: -1
+huziying
+  rotate: true
+  xy: 547, 359
+  size: 162, 67
+  orig: 162, 67
+  offset: 0, 0
+  index: -1
+lian
+  rotate: true
+  xy: 293, 234
+  size: 287, 252
+  orig: 287, 252
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: true
+  xy: 2, 223
+  size: 298, 289
+  orig: 298, 289
+  offset: 0, 0
+  index: -1
+youmeimao
+  rotate: false
+  xy: 588, 210
+  size: 61, 40
+  orig: 61, 40
+  offset: 0, 0
+  index: -1
+zuodamuzhi
+  rotate: false
+  xy: 536, 171
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+zuomeimao
+  rotate: true
+  xy: 547, 201
+  size: 76, 39
+  orig: 76, 39
+  offset: 0, 0
+  index: -1
+zuoshizhi
+  rotate: true
+  xy: 505, 67
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 602, 252
+  size: 73, 41
+  orig: 73, 41
+  offset: 0, 0
+  index: -1
+zuoxiaomuzhi
+  rotate: false
+  xy: 536, 49
+  size: 112, 115
+  orig: 112, 115
+  offset: 0, 0
+  index: -1
+zuozhongzhi
+  rotate: true
+  xy: 554, 6
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,216 @@
+
+TC_FG_xuanze_kung.png
+size: 553,582
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/k_g/k_g_00
+  rotate: false
+  xy: 497, 2
+  size: 41, 98
+  orig: 257, 98
+  offset: 0, 0
+  index: -1
+images/k_g/k_g_01
+  rotate: false
+  xy: 402, 182
+  size: 42, 98
+  orig: 257, 98
+  offset: 0, 0
+  index: -1
+images/k_g/k_g_02
+  rotate: false
+  xy: 405, 2
+  size: 44, 98
+  orig: 257, 98
+  offset: 0, 0
+  index: -1
+images/k_g/k_g_03
+  rotate: true
+  xy: 405, 102
+  size: 48, 98
+  orig: 257, 98
+  offset: 0, 0
+  index: -1
+images/k_g/k_g_04
+  rotate: true
+  xy: 446, 152
+  size: 54, 98
+  orig: 257, 98
+  offset: 0, 0
+  index: -1
+images/k_g/k_g_05
+  rotate: false
+  xy: 343, 10
+  size: 60, 98
+  orig: 257, 98
+  offset: 0, 0
+  index: -1
+images/k_g/k_g_06
+  rotate: false
+  xy: 274, 9
+  size: 67, 98
+  orig: 257, 98
+  offset: 0, 0
+  index: -1
+images/k_g/k_g_07
+  rotate: true
+  xy: 202, 109
+  size: 75, 98
+  orig: 257, 98
+  offset: 0, 0
+  index: -1
+images/k_g/k_g_08
+  rotate: true
+  xy: 302, 196
+  size: 84, 98
+  orig: 257, 98
+  offset: 0, 0
+  index: -1
+images/k_g/k_g_09
+  rotate: true
+  xy: 202, 186
+  size: 94, 98
+  orig: 257, 98
+  offset: 0, 0
+  index: -1
+images/k_g/k_g_10
+  rotate: true
+  xy: 102, 5
+  size: 104, 98
+  orig: 257, 98
+  offset: 0, 0
+  index: -1
+images/k_g/k_g_11
+  rotate: false
+  xy: 330, 282
+  size: 115, 98
+  orig: 257, 98
+  offset: 0, 0
+  index: -1
+images/k_g/k_g_12
+  rotate: false
+  xy: 202, 282
+  size: 126, 98
+  orig: 257, 98
+  offset: 0, 0
+  index: -1
+images/k_g/k_g_13
+  rotate: true
+  xy: 102, 242
+  size: 138, 98
+  orig: 257, 98
+  offset: 0, 0
+  index: -1
+images/k_g/k_g_14
+  rotate: false
+  xy: 2, 482
+  size: 148, 98
+  orig: 257, 98
+  offset: 3, 0
+  index: -1
+images/k_g/k_g_15
+  rotate: false
+  xy: 102, 382
+  size: 147, 98
+  orig: 257, 98
+  offset: 16, 0
+  index: -1
+images/k_g/k_g_16
+  rotate: false
+  xy: 152, 482
+  size: 148, 98
+  orig: 257, 98
+  offset: 29, 0
+  index: -1
+images/k_g/k_g_17
+  rotate: false
+  xy: 302, 482
+  size: 148, 98
+  orig: 257, 98
+  offset: 42, 0
+  index: -1
+images/k_g/k_g_18
+  rotate: true
+  xy: 2, 332
+  size: 148, 98
+  orig: 257, 98
+  offset: 56, 0
+  index: -1
+images/k_g/k_g_19
+  rotate: true
+  xy: 2, 182
+  size: 148, 98
+  orig: 257, 98
+  offset: 70, 0
+  index: -1
+images/k_g/k_g_20
+  rotate: false
+  xy: 251, 382
+  size: 147, 98
+  orig: 257, 98
+  offset: 85, 0
+  index: -1
+images/k_g/k_g_21
+  rotate: true
+  xy: 2, 32
+  size: 148, 98
+  orig: 257, 98
+  offset: 99, 0
+  index: -1
+images/k_g/k_g_22
+  rotate: false
+  xy: 400, 382
+  size: 143, 98
+  orig: 257, 98
+  offset: 114, 0
+  index: -1
+images/k_g/k_g_23
+  rotate: true
+  xy: 102, 111
+  size: 129, 98
+  orig: 257, 98
+  offset: 128, 0
+  index: -1
+images/k_g/k_g_24
+  rotate: true
+  xy: 447, 267
+  size: 113, 98
+  orig: 257, 98
+  offset: 144, 0
+  index: -1
+images/k_g/k_g_25
+  rotate: false
+  xy: 452, 482
+  size: 99, 98
+  orig: 257, 98
+  offset: 158, 0
+  index: -1
+images/k_g/k_g_26
+  rotate: true
+  xy: 302, 110
+  size: 84, 98
+  orig: 257, 98
+  offset: 173, 0
+  index: -1
+images/k_g/k_g_27
+  rotate: false
+  xy: 202, 9
+  size: 70, 98
+  orig: 257, 98
+  offset: 187, 0
+  index: -1
+images/k_g/k_g_28
+  rotate: true
+  xy: 446, 208
+  size: 57, 98
+  orig: 257, 98
+  offset: 200, 0
+  index: -1
+images/k_g/k_g_29
+  rotate: false
+  xy: 451, 2
+  size: 44, 98
+  orig: 257, 98
+  offset: 213, 0
+  index: -1
